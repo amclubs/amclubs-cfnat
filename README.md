@@ -39,7 +39,7 @@
   -ipv4/6 string
         指定生成IPv4还是IPv6地址 (4或6) (default "4")
 ~~~
-
+香港：HKG 美国：USA 美国洛杉矶：LAX 美国圣何塞：SJC 日本：JPN 新加坡：SGP
 
  # 
 <center>
