@@ -9,10 +9,12 @@
 </br>✅**解锁更多技能** [加入TG群【am_clubs】](https://t.me/am_clubs)、[YouTube频道【@am_clubs】](https://youtube.com/@am_clubs?sub_confirmation=1)、[【博客(国内)】](https://amclubss.com)、[【博客(国际)】](https://amclubs.blogspot.com) 
 </br>✅点击观看教程[CLoudflare免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS搭建节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [获取免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV源](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 
-#
+## 一、🎬 [视频教程](https://www.youtube.com/watch?v=wgeM9XvZ5RA&t=195s)
+
+## 二、📦 效果图
 ![check-in](https://raw.githubusercontent.com/amclubs/amclubs-cfnat/main/amclubs-cfnat.jpg)
 
-## 参数说明:
+## 三、📋 参数说明:
 ~~~
   -数据中心 string
         筛选数据中心例如 HKG,SJC,LAX (多个数据中心用逗号隔开,留空则忽略匹配)
@@ -46,6 +48,9 @@
 HTTP：80，8080，8880，2052，2082，2086，2095
 HTTPS：443，2053，2083，2087，2096，8443
 ~~~
+
+# 🙏 感谢
+[CF_NAT](https://t.me/CF_NAT)
 
  # 
 <center>
