@@ -10,7 +10,7 @@
 </br>✅点击观看教程[CLoudflare免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS搭建节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [获取免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV源](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 
 ## 一、🎬 [视频教程](https://youtu.be/-a6NJ6vPSu4)  
-[amclubs-cfnat使用视频教程](https://youtu.be/-a6NJ6vPSu4)
+[amclubs-cfnat使用视频教程-windows桌面版](https://youtu.be/-a6NJ6vPSu4)
 
 [一键部署🔥VLESS/Trojan免费节点视频教程](https://youtu.be/wgeM9XvZ5RA)
 
