@@ -14,6 +14,8 @@
 
 [amclubs-cfnat使用视频教程-Linux版+软路由+openclash版](https://youtu.be/ZC6fxZwPaiM)
 
+[amclubs-cfnat使用视频教程-Mac版](https://youtu.be/gf6gncc2yEE)
+
 [一键部署🔥VLESS/Trojan免费节点视频教程](https://youtu.be/wgeM9XvZ5RA)
 
 ## 二、📦 效果图
