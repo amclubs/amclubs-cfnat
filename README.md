@@ -52,6 +52,52 @@
 ~~~
 香港：HKG 美国：USA 美国洛杉矶：LAX 美国圣何塞：SJC 日本：JPN 新加坡：SGP
 
+
+## 四、📋 Docker部署:
+1、下载docker镜像
+```
+docker pull amclubs/amclubs-cfnat:latest
+```
+
+2、后台运行docker(docker run -d -p 外部端口:容器端口 --name 自定义容器名 amclubs/amclubs-cfnat)
+```
+docker run -d -p 1234:1234 --name cfnat amclubs/amclubs-cfnat
+```
+
+3、可以加参数运行
+```
+docker run -d -p 1234:1234 --name cfnat amclubs/amclubs-cfnat -addr 0.0.0.0:1234 -colo HKG,SJC
+```
+
+4、参数说明如下
+```
+  -addr string
+        本地监听的 IP 和端口 (default "0.0.0.0:1234")
+  -code int
+        HTTP/HTTPS 响应状态码 (default 200)
+  -colo string
+        筛选数据中心例如 HKG,SJC,LAX (多个数据中心用逗号隔开,留空则忽略匹配)
+  -delay int
+        有效延迟（毫秒），超过此延迟将断开连接 (default 300)
+  -domain string
+        响应状态码检查的域名地址 (default "cloudflaremirrors.com/debian")
+  -ipnum int
+        提取的有效IP数量 (default 20)
+  -ips string
+        指定生成IPv4还是IPv6地址 (4或6) (default "4")
+  -num int
+        目标负载 IP 数量 (default 10)
+  -port int
+        转发的目标端口 (default 443)
+  -random
+        是否随机生成IP，如果为false，则从CIDR中拆分出所有IP (default true)
+  -task int
+        并发请求最大协程数 (default 100)
+  -tls
+        是否为 TLS 端口 (default true)
+```
+
+
 ### CF端口类型:
 ~~~
 HTTP：80，8080，8880，2052，2082，2086，2095
