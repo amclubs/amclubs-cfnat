@@ -18,6 +18,8 @@
 
 [amclubs-cfnat使用视频教程-安卓(Android)手机版](https://youtu.be/7yamDM38MFw)
 
+[amclubs-cfnat使用视频教程-Docker版](https://youtu.be/gRnNwoeUQKU)
+
 [一键部署🔥VLESS/Trojan免费节点视频教程](https://youtu.be/wgeM9XvZ5RA)
 
 ## 二、📦 效果图
